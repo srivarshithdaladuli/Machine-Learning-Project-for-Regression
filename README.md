@@ -63,12 +63,12 @@ The primary goal is to build and evaluate regression models that accurately pred
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your_username/ml-regression-project.git
+    git clone https://github.com/srivarshithdaladuli/Machine-Learning-Project-for-Regression.git
     ```
 
 2. **Navigate to the project directory**:
     ```bash
-    cd ml-regression-project
+    cd Machine-Learning-Project-for-Regression
     ```
 
 3. **Install required dependencies**:
